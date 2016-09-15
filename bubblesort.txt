@@ -1,0 +1,5 @@
+introdução
+
+1 - Revelar casas consecutivas na ordem 1 e2, 2 e 3, 3 e 4, 4 e 5
+2 - Se houver necessidade de troca realize, a troca é feita se a carta da casa da esquerda for maior que a da direita
+3 - Repita o processo até que todas as casas consecutivas verificadas não haja troca
